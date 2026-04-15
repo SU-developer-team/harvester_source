@@ -1,0 +1,6 @@
+logs/
+graphs/
+delta_params/
+experiments/
+experiments_reversed/
+last_exp/
